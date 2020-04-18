@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking920</string>
+    <string name="FACEBOOK_APP_ID">scsd</string>
+    <string name="fb_login_protocol_scheme">cssv</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">sfs</string>
+
+</resources>

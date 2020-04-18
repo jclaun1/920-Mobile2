@@ -1,0 +1,38 @@
+export const LOGIN_REQUEST         = 'LOGIN_REQUEST'
+export const LOGIN_SUCCESS         = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE         = 'LOGIN_FAILURE'
+export const USER_REQUEST          = 'USER_REQUEST'
+export const USER_SUCCESS          = 'USER_SUCCESS'
+export const USER_FAILURE          = 'USER_FAILURE'
+export const USER_LOGOUT           = 'USER_LOGOUT'
+export const USER_CURRENCY         = 'USER_CURRENCY'
+export const USERS_ONLINE          = 'USERS_ONLINE'
+
+export const NOTIFICATIONS         = 'NOTIFICATIONS'
+export const NOTIFICATION_PUSH     = 'NOTIFICATION_PUSH'
+export const NOTIFICATION_READ     = 'NOTIFICATION_READ'
+export const NOTIFICATION_COUNT    = 'NOTIFICATION_COUNT'
+export const NOTIFICATION_INC_DEC  = 'NOTIFICATION_INC_DEC'
+export const INBOXES               = 'INBOXES'
+export const INBOX_PUSH            = 'INBOX_PUSH'
+export const INBOX_READ            = 'INBOX_READ'
+export const INBOX_COUNT           = 'INBOX_COUNT'
+export const INBOX_INC_DEC         = 'INBOX_INC_DEC'
+export const ACCOUNT               = 'ACCOUNT'
+export const HOME_DATA_REQUESTING  = 'HOME_DATA_REQUESTING'
+export const HOME_DATA             = 'HOME_DATA'
+export const HOME_DATA_FAILD       = 'HOME_DATA_FAILD'
+export const USER_IS_SET           = 'USER_IS_SET'
+
+export const ALL_TRIPS             = 'ALL_TRIPS'
+export const PAST_TRIPS            = 'PAST_TRIPS'
+export const UPCOMMING_TRIPS       = 'UPCOMMING_TRIPS'
+
+export const ALL_ORDERS            = 'ALL_ORDERS'
+export const RECEIVED_ORDERS       = 'RECEIVED_ORDERS'
+export const INACTIVE_ORDERS       = 'INACTIVE_ORDERS'
+export const TRANSIT_ORDERS        = 'TRANSIT_ORDERS'
+export const REQUEST_ORDERS        = 'REQUEST_ORDERS'
+
+
+
